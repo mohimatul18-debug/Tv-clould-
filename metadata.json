@@ -1,0 +1,8 @@
+{
+  "name": "TV Home",
+  "description": "Lightweight dark glassmorphism Android TV home screen with D-pad navigation, app hiding, and a built-in Bloatware & Private DNS Cleaner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
